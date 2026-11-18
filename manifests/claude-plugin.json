@@ -1,0 +1,6 @@
+{
+  "name": "hstack",
+  "version": "0.1.0",
+  "description": "Engineering playbooks and a staging-only Help Scout support workflow.",
+  "author": { "name": "hstack contributors" }
+}

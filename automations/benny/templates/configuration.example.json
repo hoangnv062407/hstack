@@ -1,0 +1,19 @@
+{
+  "repository": {
+    "github": "OWNER/REPO",
+    "baseBranch": "main"
+  },
+  "helpScout": {
+    "origin": "https://secure.helpscout.net",
+    "mailbox": "TEAM MAILBOX"
+  },
+  "staging": {
+    "origin": "https://team-dev-store.myshopify.com",
+    "marker": {
+      "selector": "[data-hstack-environment]",
+      "attribute": "data-hstack-environment",
+      "value": "staging"
+    },
+    "featureMap": "docs/support/staging-feature-map.md"
+  }
+}

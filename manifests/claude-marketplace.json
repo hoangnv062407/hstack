@@ -1,0 +1,14 @@
+{
+  "name": "hstack-local",
+  "description": "Local distribution of hstack engineering and support skills.",
+  "owner": {
+    "name": "hstack contributors"
+  },
+  "plugins": [
+    {
+      "name": "hstack",
+      "source": "./",
+      "description": "Engineering playbooks and a staging-only Help Scout support workflow."
+    }
+  ]
+}
